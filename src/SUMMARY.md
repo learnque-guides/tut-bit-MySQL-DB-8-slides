@@ -7,8 +7,8 @@
 - [Flow elements](./flow_elements.md)
 - [The IF . . . ELSE flow element](./if_else.md)
 - [The WHILE flow element](./while_flow_element.md)
-- [FOR](./for.md)
-- [REPEAT loop](./repeat_loop.md)
+<!-- - [FOR](./for.md) -->
+<!-- - [REPEAT loop](./repeat_loop.md) -->
 - [LEAVE statement](./leave.md)
 - [SIGNAL - error handling](./signal.md)
 - [Cursor](./cursor.md)
